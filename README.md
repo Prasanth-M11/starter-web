@@ -17,6 +17,10 @@ we developers build this web application are called software engineer
 
 3. Testing
 
+we test this using appium and tester and we also do whitebox and black box testing
+
 4. Deployment
+
+we can test in localhost or we can deploy it in web server like render,amazon,vercel and many more
 
 Thank you
